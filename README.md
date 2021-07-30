@@ -13,4 +13,5 @@ Example provided below
     ICS Codes go here
 </script>
 
-An example Sudoku Sovler project that was created entirely using ICS can be found here
+An example Sudoku Sovler project that was created entirely using ICS can be found in this repo.
+All ICS codes are contained in the index.html file
